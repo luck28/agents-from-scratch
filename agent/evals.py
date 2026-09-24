@@ -25,6 +25,7 @@ class EvalResult:
     error: str | None = None
 
 
+
 @dataclass 
 class EvalSuiteResult:
     """Result of running an eval suite."""
